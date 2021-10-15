@@ -1,0 +1,4 @@
+// Step Three - Send the request to Flickr and process the response data
+GET https://flickr.com/services/rest/?api_key=26e1b67e2817117639fe8225c4f94da3&format=json&nojsoncallback=1&method=flickr.photos.search&safe_search=1&per_page=5&lat=38.2537106518&lon=-85.7401220395&text=LouisvilleSluggerFactory
+
+###
